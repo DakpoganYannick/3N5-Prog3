@@ -1,0 +1,1 @@
+Elles ne donnent pas le même résultat car une des méthodes gère les excepetions pour chaque fichier
